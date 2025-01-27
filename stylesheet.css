@@ -2,8 +2,18 @@
   width:100%;
   text-align:center;
 }
-.btn{
+
+.btn {
+  padding: 8px 24px;
+  color: white;
   background-color:#b95750;
+  display: inline-block;
+  opacity: 0.8;
+  border-radius: 4px;
+}
+
+.btn:hover {
+  opacity: 1;
 }
 
 .roll{
