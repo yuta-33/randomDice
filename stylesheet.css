@@ -16,7 +16,7 @@
 .btn:hover {
   opacity: 1;
 }
-.btn:action{
+.btn:active{
   position:relative;
   box-shadow:none;
   top:5px;
