@@ -22,3 +22,9 @@
 .top-wrapper h1{
   color:#50b957;
 }
+
+@media all and (max-width: 670px){
+  .btn{
+    width:80%;
+  }
+}
