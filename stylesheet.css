@@ -10,10 +10,15 @@
   display: inline-block;
   opacity: 0.8;
   border-radius: 4px;
+  box-shadow:5px 0px;
 }
 
 .btn:hover {
   opacity: 1;
+}
+.btn:action{
+  box-shadow:none;
+  top:5px;
 }
 
 .roll{
