@@ -4,4 +4,3 @@ const Dodice = () =>{
 }
 document.getElementById('roll').addEventListener('click', Dodice );
 
-export default random.js from "./random.js"
